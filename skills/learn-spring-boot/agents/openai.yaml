@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spring Boot Öðrenme Mentoru"
+  short_description: "Sade ve öðretici Spring Boot rehberliði"
+  default_prompt: "Use $learn-spring-boot to teach me this Spring Boot task with minimal, idiomatic code and explain each decision naturally."

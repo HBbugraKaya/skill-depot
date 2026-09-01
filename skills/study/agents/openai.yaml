@@ -1,0 +1,5 @@
+interface:
+  display_name: "Study"
+  short_description: "Ders çalışma — kavram dersleri ve quiz workspace'i"
+policy:
+  allow_implicit_invocation: false
