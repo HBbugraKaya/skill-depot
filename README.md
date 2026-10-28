@@ -13,6 +13,7 @@ Personal Cursor Agent Skills collection.
 | [java-springboot](skills/java-springboot/) | Spring Boot development best practices |
 | [learn-spring-boot](skills/learn-spring-boot/) | Spring Boot learning mentor with pragmatic explanations |
 | [mentoring-juniors](skills/mentoring-juniors/) | Socratic mentoring for junior developers |
+| [readable-prose](skills/readable-prose/) | Manual readability pass: rewrite dense, AI-sounding text so it parses on first read (manual-only) |
 | [study](skills/study/) | Structured study and learning workflows |
 
 ## Install
@@ -47,4 +48,5 @@ Use the comprehensive-repository-review skill to review this repository.
 ## Sources
 
 - `adaptive-java-backend-tutor` — from [gym-crm](https://github.com/HBbugraKaya/gym-crm)
+- `readable-prose` — based on [Clark, Martin & Mahowald (2026), arXiv:2610.29162](https://arxiv.org/abs/2610.29162) (CC BY 4.0; PDF in `skills/readable-prose/references/`)
 - Other skills — personal Cursor skills collection
