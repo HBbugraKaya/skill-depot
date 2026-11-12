@@ -162,6 +162,13 @@ Same principle; the patterns surface differently. The script is English-only, so
 4. **Fiil cümle sonunda:** Türkçe SOV olduğu için uzun cümlede yüklem çok geç gelir. Cümleleri ~20 kelimenin altında tut.
 5. **Gereksiz İngilizce türetme:** "bunu ship'leyelim", "footnote'layalım" → okura göre Türkçesini kullan.
 6. **Nadir kelime / alışılmadık eşleşme:** "bütçe yiyen cümle" gibi uydurma imgeler yerine düz anlamı yaz.
+7. **Noktalı virgülden kaçarken virgülleri karıştırma:** Noktalı virgül yasak değil. Virgüllü bir listenin ardından virgülle yeni bir yan cümle başlıyorsa okur listenin nerede bittiğini anlayamaz. Bu durumda cümleleri noktalı virgülle ayır ya da cümleyi ikiye böl.
+   "Verinin merkezini ortalama, medyan ve modla, yayılımını ise çeyrekler, IQR ve varyansla ölçeriz." →
+   "Verinin merkezini ortalama, medyan ve modla; yayılımını ise çeyrekler, IQR ve varyansla ölçeriz."
+   Kontrol sorusu: Her virgüllü listede "okur listenin nerede bittiğini ilk okumada anlıyor mu?" diye sor.
+8. **Madde iminden bozma tanım paragrafları:** "X: budur. Y; şudur." kalıbı tek başına yasak değil. Kısa ve net bir tanımın gerçekten en iyi seçenek olduğu yerde (hızlı başvuru için bir tanımı öne çıkarmak, paralel kavramları yan yana koymak) bilinçli olarak kullanılabilir. Sorun, bütün paragrafların bu kalıpla yazılmasıdır. Ders anlatımı ve açıklama metinlerinde varsayılan biçim, bağlaçlar ve geçiş ifadeleriyle ("…durumuna baktığımızda", "buradan da anlaşılacağı üzere") birbirine bağlanan akıcı paragraflar olmalı; tanım kalıbı seyrek ve bilinçli bir tercih olarak kalmalı.
+
+Bu iki kural birbirini dengeler. 8. kuralı uygularken noktalama işaretlerinden topyekûn kaçma; 7. kuraldaki gibi gerektiği yerde noktalı virgül kullan. Amaç belirli bir işaretten kaçınmak değil, cümlenin ilk okumada anlaşılmasıdır.
 
 ## Source
 
